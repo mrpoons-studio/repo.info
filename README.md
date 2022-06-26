@@ -19,15 +19,15 @@
 [![yt-dlp Core Build Status](https://img.shields.io/github/workflow/status/yt-dlp/yt-dlp/Core%20Tests/master?label=yt-dlp&style=for-the-badge&logo=github)](https://github.com/yt-dlp/yt-dlp/actions/workflows/core.yml "CI Status for yt-dlp, Core Tests")
 [![aria2c Build Status](https://img.shields.io/github/workflow/status/aria2/aria2/build?label=aria2c&logo=github&style=for-the-badge)](https://github.com/aria2/aria2/actions/workflows/build.yml "CI Status for aria2c")
 [![GNU wget2 Pipeline Status](https://img.shields.io/gitlab/pipeline-status/gnuwget/wget2?branch=master&label=wget2&logo=gitlab&style=for-the-badge)](https://gitlab.com/gnuwget/wget2/-/pipelines "GNU wget2 Pipelines")
-[![Linux Workflows Status](https://img.shields.io/github/workflow/status/curl/curl/Linux?label=curl%2C%20linux&logo=github&style=for-the-badge)(https://github.com/curl/curl/actions?query=workflow%3A%22Linux%22 "Linux Workflows")
-[![macOS Workflow Status](https://img.shields.io/github/workflow/status/curl/curl/macOS?label=curl%2C%20macos&logo=github&style=for-the-badge)(https://github.com/curl/curl/actions/workflows/macos.yml?query=workflow%3AmacOS "macOS Workflows"
+[![curl Linux Workflows Status](https://img.shields.io/github/workflow/status/curl/curl/Linux?label=curl%2C%20linux&logo=github&style=for-the-badge)](https://github.com/curl/curl/actions?query=workflow%3A%22Linux%22 "Linux Workflows")
+[![curl macOS Workflow Status](https://img.shields.io/github/workflow/status/curl/curl/macOS?label=curl%2C%20macos&logo=github&style=for-the-badge)](https://github.com/curl/curl/actions/workflows/macos.yml?query=workflow%3AmacOS "macOS Workflows")
 
 ### `wolfssl` and `openssl`
 
 [![Ubuntu Build Status](https://img.shields.io/github/workflow/status/wolfssl/wolfssl/Ubuntu%20Build%20Test?label=wolfssl%2C%20build-test%2C%20ubuntu&logo=github&style=for-the-badge)](https://github.com/wolfSSL/wolfssl/actions/workflows/ubuntu-check.yml "Ubuntu Build Test")
-[![Windows Build Status](https://img.shields.io/github/workflow/status/wolfssl/wolfssl/Windows%20Build%20Test?label=wolfssl%2C%20build-test%2C%20windows&logo=github&style=for-the-badge)(https://github.com/wolfSSL/wolfssl/actions/workflows/windows-check.yml "Windows Build Test")
-[![macOS Build Status](https://img.shields.io/github/workflow/status/wolfssl/wolfssl/macOS%20Build%20Test?label=wolfssl%2C%20build-test%2C%20windows&logo=github&style=for-the-badge)(https://github.com/wolfSSL/wolfssl/actions/workflows/macos-check.yml "macOS Build Test")
-[![OpenSSL GitHub CI Status](https://img.shields.io/github/workflow/status/openssl/openssl/GitHub%20CI?label=openssl&logo=github&style=for-the-badge)(https://github.com/openssl/openssl/actions?query=workflow%3A%22GitHub+CI%22 "OpenSSL GitHub CI")
+[![Windows Build Status](https://img.shields.io/github/workflow/status/wolfssl/wolfssl/Windows%20Build%20Test?label=wolfssl%2C%20build-test%2C%20windows&logo=github&style=for-the-badge)](https://github.com/wolfSSL/wolfssl/actions/workflows/windows-check.yml "Windows Build Test")
+[![macOS Build Status](https://img.shields.io/github/workflow/status/wolfssl/wolfssl/macOS%20Build%20Test?label=wolfssl%2C%20build-test%2C%20windows&logo=github&style=for-the-badge)](https://github.com/wolfSSL/wolfssl/actions/workflows/macos-check.yml "macOS Build Test")
+[![OpenSSL GitHub CI Status](https://img.shields.io/github/workflow/status/openssl/openssl/GitHub%20CI?label=openssl&logo=github&style=for-the-badge)](https://github.com/openssl/openssl/actions?query=workflow%3A%22GitHub+CI%22 "OpenSSL GitHub CI")
 
 ## Build Tools that developers will use everyday
 [![Clang Test Status](https://img.shields.io/github/workflow/status/llvm/llvm-project/Clang%20Tests?label=llvm%2C%20clang-tests&logo=github&style=for-the-badge)](https://github.com/llvm/llvm-project/actions/workflows/clang-tests.yml "Clang Tests")

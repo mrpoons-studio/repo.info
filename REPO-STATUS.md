@@ -1,4 +1,4 @@
-<!-- STATUS: BEGIN STATUS HERE -->
+<!-- REPO-STATUS: BEGIN REPO-STATUS HERE -->
 # Status for Active Repos
 
 ## Terminal for Android OS
@@ -34,4 +34,4 @@
 [![LLVM Test Status](https://img.shields.io/github/workflow/status/llvm/llvm-project/LLVM%20Tests?label=llvm%2C%20llvm-tests&logo=github&style=for-the-badge)](https://github.com/llvm/llvm-project/actions/workflows/llvm-tests.yml "LLVM Tests")
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/llvm/llvm-project/Commit%20Tests?label=llvm%2C%20commit-tests&logo=github&style=for-the-badge)](https://github.com/llvm/llvm-project/actions/workflows/commit-tests.yml "Commit Tests for LLVM Project")
 
-<!-- STATUS: END STATUS HERE -->
+<!-- REPO-STATUS: END REPO-STATUS HERE -->

@@ -13,7 +13,7 @@
 ![yt-dlp repo size](https://img.shields.io/github/repo-size/yt-dlp/yt-dlp?label=yt-dlp%20repo%20size&logo=github&style=for-the-badge)
 ![aria2c repo size](https://img.shields.io/github/repo-size/aria2/aria2?label=aria2c%20repo%20size&logo=github&style=for-the-badge)
 ![curl repo size](https://img.shields.io/github/repo-size/curl/curl?label=curl%20repo%20size&logo=github&style=for-the-badge)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/gnuwget/wget2?label=gnu%20wget2%20repo%20size&logo=GitHub&style=for-the-badge)
 
 ### `wolfssl` and `openssl`
 ![wolfssl repo size](https://img.shields.io/github/repo-size/wolfssl/wolfssl?label=Wolfssl%20repo%20size&logo=github&style=for-the-badge)

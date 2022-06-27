@@ -1,5 +1,5 @@
 <!-- REPO-SIZE: BEGIN REPO-SIZE HERE -->
-# Status for Active Repos
+# Size for Active Repos
 
 ## Terminal for Android OS
 ### Termux Mobile App
@@ -21,5 +21,8 @@
 
 ## Build Tools that developers will use everyday
 ![LLVM Project repo size](https://img.shields.io/github/repo-size/llvm/llvm-project?label=llvm%20repo%20size&logo=Github&style=for-the-badge)
+
+## Offical Linux Kernel
+![Offical Linux Kernel repo size](https://img.shields.io/github/repo-size/torvalds/Linux?label=Offical%20linux%20kernel%20repo%20size%2C%20github&logo=Github&style=for-the-badge)
 
 <!-- REPO-SIZE: END REPO-SIZE HERE -->

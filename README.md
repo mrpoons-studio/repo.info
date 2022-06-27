@@ -4,5 +4,5 @@
 ## For repo size, [![REPO-SIZE](https://raw.githubusercontent.com/codenamedpktbusiness/repo.info/main/.github/button-size.jpg)](https://github.com/codenamedpktbusiness/repo.info/blob/main/REPO-SIZE.md "REPO-SIZE")
 
 <br>Data powered by GitHub</br>
-Created with love from father and mother in heaven by Mr. Poon's Studio 
-Mr. Poon's Studio © 2022
+<br>with love from father and mother in heaven by Mr. Poon's Studio</br>
+<br>Mr. Poon's Studio © 2022</br>

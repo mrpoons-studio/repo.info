@@ -1,7 +1,7 @@
 # Active Repository Information - Your introduction for your packages
 
-## To see the repos status mainly used, click [![REPO-STATUS](https://raw.githubusercontent.com/${{GITHUB_USER}}/repo.info/main/.github/button-status.jpg)](https://github.com/${{GITHUB_USER}}/repo.info/blob/main/REPO-STATUS.md "REPO-STATUS")
-## For repo size, [![REPO-SIZE](https://raw.githubusercontent.com/${{GITHUB_USER}}/repo.info/main/.github/button-size.jpg)](https://github.com/${{GITHUB_USER}}/repo.info/blob/main/REPO-SIZE.md "REPO-SIZE")
+## To see the repos status mainly used, click [![REPO-STATUS](./.github/button-status.jpg)](./REPO-STATUS.md "REPO-STATUS")
+## For repo size, [![REPO-SIZE](./.github/button-size.jpg)](./REPO-SIZE.md "REPO-SIZE")
 
 <p> Data powered by GitHub
 <p> Created with love from father and mother in heaven by Mr. Poon's Studio

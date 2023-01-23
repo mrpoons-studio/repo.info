@@ -1,10 +1,10 @@
-# Contributing to the Minimal theme
+# Contributing to the Dashboard with Team Mr. Poon's Studio
 
-Hi there! We're thrilled that you'd like to contribute to the Minimal theme. Your help is essential for keeping it great.
+Hi there! We're thrilled that you'd like to contribute to the Repo Info Dashboard. Your help is essential for keeping it great.
 
-the Minimal theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into the Minimal theme itself.
+our Dashboard is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues at designated discussion board, or writing code which can be incorporated to us itself.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+Following these guidelines helps to communicate that you respect the time of the users and developers using, managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 
 ## Looking for support?
@@ -13,7 +13,7 @@ We'd love to help. Check out [the support guidelines](SUPPORT.md).
 
 ## How to report a bug
 
-Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/minimal/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/minimal/issues/new).
+Think you found a bug? Please check [the list of open issues](https://github.com/pages-themes/minimal/discuss) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/minimal/discuss/new).
 
 Here are a few tips for writing *great* bug reports:
 
@@ -21,18 +21,18 @@ Here are a few tips for writing *great* bug reports:
 * Include the steps to reproduce the bug, what you expected to happen, and what happened instead
 * Check that you are using the latest version of the project and its dependencies
 * Include what version of the project your using, as well as any relevant dependencies
-* Only include one bug per issue. If you have discovered two bugs, please file two issues
+* Only include all the bugs ready to report per issue at a time. If you have discovered more and mor bugs and issues, please zipped and file once only by appropiate link
 * Even if you don't know how to fix the bug, including a failing test may help others track it down
 
-**If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**
+**If you find a security vulnerability, do not open an issue - please. Please email security@github.com instead.**
 
 ## How to suggest a feature or enhancement
 
-If you find yourself wishing for a feature that doesn't exist in the Minimal theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Minimal theme has today have been added because our users saw the need.
+If you find yourself wishing for a feature that doesn't exist from us, you are probably not alone. There are bound to be others out there with similar needs. Many of the features here has today have been added because our users saw the need.
 
 Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
 
-[Open an issue](https://github.com/pages-themes/minimal/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
+[Open an issue](https://github.com/mrpoons-studio/cloud-infrastructure.on.android.using-termux.discuss-board/discuss/new) which describes the feature you would like to see, why you want it, how it should work, etc.
 
 
 
@@ -40,8 +40,8 @@ Feature requests are welcome. But take a moment to find out whether your idea fi
 
 We'd love for you to contribute to the project. Unsure where to begin contributing to the Minimal theme? You can start by looking through these "good first issue" and "help wanted" issues:
 
-* [Good first issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
-* [Help wanted issues](https://github.com/pages-themes/minimal/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
+* [Good first issues](https://github.com/mrpoons-studio/cloud-infrastructure.on.android.using-termux.discuss-board/discuss?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two
+* [Help wanted issues](https://github.com/mrpoons-studio/cloud-infrastructure.on.android.using-termux.discuss-board/discuss?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions
 
 *p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:
 
@@ -52,30 +52,22 @@ Here's a few general guidelines for proposing changes:
 * If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.
 * Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).
 * If you are changing any user-facing functionality, please be sure to update the documentation
-* Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request
+* Each pull request should implement *features and/or bug fixes at once*. We may reject the pull request and submit again if we found errors.
 * Do not commit changes to files that are irrelevant to your feature or bug fix
 * Don't bump the version number in your pull request (it will be bumped prior to release)
 * Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 At a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:
 
-1. [Fork](https://github.com/pages-themes/minimal/fork) and clone the project
-2. Configure and install the dependencies: `script/bootstrap`
-3. Make sure the tests pass on your machine: `script/cibuild`
+1. [Fork](https://github.com/mrpoons-studio/repo.info/fork) and clone our project
+2. 
+3. 
 4. Create a new branch: `git checkout -b my-branch-name`
 5. Make your change, add tests, and make sure the tests still pass
-6. Push to your fork and [submit a pull request](https://github.com/pages-themes/minimal/compare)
-7. Pat your self on the back and wait for your pull request to be reviewed and merged
+6. Push to your fork and [submit a pull request](https://github.com/mrpoons-studio/repo.info/compare)
+7. Sit back, relax, take a coffee and wait for your pull request to be reviewed and merged if they are ready for our team
 
 **Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-
-## Bootstrapping your local development environment
-
-`script/bootstrap`
-
-## Running tests
-
-`script/cibuild`
 
 ## Code of conduct
 
@@ -86,3 +78,5 @@ This project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_C
 * [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
 * [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)
 * [GitHub Help](https://help.github.com)
+
+2023 Mr. Poon's Studio.

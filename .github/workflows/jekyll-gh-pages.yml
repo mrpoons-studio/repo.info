@@ -37,6 +37,8 @@ jobs:
       - name: 🏗 Build with Jekyll
         uses: actions/jekyll-build-pages@main
         with:
+          runs:
+            using: 'node18'
           source: ./
           destination: ./_site
       - name: 📤 Upload artifact

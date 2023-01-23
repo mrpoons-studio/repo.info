@@ -4,7 +4,7 @@
 
 *Repository Info Dashboard is a Jekyll based online dashboard collects development progress, status, and activities from developers hosted on code hosting service like GitHub, GitLab, etc., and take all results, announced to the world by GitHub Pages. You can check code development status and progress, the repo is archived or not, has the app released yet... All the answer in this repo information dashboard with just one to few tips and taps on your fingertips. Your coding life simplier.*
 
-![Thumbnail of Minimal](thumbnail.png)
+[![Thumbnail of Minimal](thumbnail.png)](https://github.com/mrpoons-studio/repo.info#readme)
 
 ## Usage
 

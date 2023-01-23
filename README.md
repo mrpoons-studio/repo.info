@@ -2,9 +2,13 @@
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml)
 
-*Repository Info Dashboard is a Jekyll based online dashboard collects development progress, status, and activities from developers hosted on code hosting service like GitHub, GitLab, etc., and take all results, announced to the world by GitHub Pages. You can check code development status and progress, the repo is archived or not, has the app released yet... All the answer in this repo information dashboard with just one to few tips and taps on your fingertips. Your coding life simplier.
+*Repository Info Dashboard is a Jekyll based online dashboard collects development progress, status, and activities from developers hosted on code hosting service like GitHub, GitLab, etc., and take all results, announced to the world by GitHub Pages. You can check code development status and progress, the repo is archived or not, has the app released yet... All the answer in this repo information dashboard with just one to few tips and taps on your fingertips. Your coding life simplier.*
 
 ![Thumbnail of Minimal](thumbnail.png)
+
+## Usage
+
+To use our dashboard, click [here](https://mrpoons-studio.github.io/repo.info). You are ready to explore the update information and development status. All the data in one hand.
 
 ## Roadmap
 

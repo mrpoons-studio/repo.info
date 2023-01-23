@@ -26,7 +26,7 @@ backup_github_username: codenamedpktbusiness
 github: [metadata]
 
 # Build settings
-remote_theme: pages-themes/hacker@master
+remote_theme: pages-themes/hacker
 google_analytics:
 
 plugins:

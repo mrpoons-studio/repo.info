@@ -57,13 +57,13 @@ defaults:
       lang: en-gb
       permalink: /:path/:basename:output_ext
 
--
+  -
     scope:
       path: "zh_cn"
     values:
       lang: zh-cn
       permalink: /:path/:basename:output_ext
--
+  -
     scope:
       path: "zh_hk"
     values:

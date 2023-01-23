@@ -39,7 +39,7 @@ jobs:
         with:
           using: 'node18'
           source: ./
-          destination: ./_site
+          destination: ./_site/_repo.info
       - name: 📤 Upload artifact
         uses: actions/upload-pages-artifact@main
 

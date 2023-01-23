@@ -27,10 +27,10 @@ github: [metadata]
 
 # Build settings
 theme: jekyll-theme-hacker
+google_analytics:
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-redirect-from
 
 markdown: CommonMarkGhPages

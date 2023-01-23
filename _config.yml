@@ -16,7 +16,7 @@
 title: Repo information for active repositories
 lang: en_gb
 supported_langs: [en_gb,zh_cn,zh_hk]
-baseurl: "https://mrpoons.studio.github.io" # the subpath of your site, e.g. /blog
+baseurl: "https://mrpoons.studio.github.io/repo.info" # the subpath of your site, e.g. /blog
 # url: "https://mrpoons.studio" # the base hostname & protocol for your site, e.g. http://example.com
 site_source: "https://github.com/mrpoons-studio/repo.info"
 instagram_username: mrpoons.studio

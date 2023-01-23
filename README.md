@@ -1,4 +1,3 @@
-# Active Repository Information - Your introduction for your packages
 
 ## To see the repos status mainly used, click <br>[![REPO-STATUS](./.github/button-status.jpg)](./REPO-STATUS.md "REPO-STATUS")</br>
 ## For repo size, <br>[![REPO-SIZE](./.github/button-size.jpg)](./REPO-SIZE.md "REPO-SIZE")</br>

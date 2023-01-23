@@ -26,11 +26,12 @@ backup_github_username: codenamedpktbusiness
 github: [metadata]
 
 # Build settings
-theme: jekyll-theme-hacker
+tremote_theme: pages-themes/hacker@master
 google_analytics:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-redirect-from
 
 markdown: CommonMarkGhPages

@@ -26,7 +26,8 @@ concurrency:
 
 jobs:
   # Build job
-  build:
+  build-gh-pages:
+    name: 🏗 Build GitHub Pages
     runs-on: ubuntu-latest
     steps:
       - name: 😁 Checkout Codes

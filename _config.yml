@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Repo information for active repositories - by Mr. Poon's Studio
+title: Active Repository Information - Your introduction for your packages - by Mr. Poon's Studio
 lang: en_gb
 supported_langs: [en_gb,zh_cn,zh_hk]
 baseurl: "/repo.info" # the subpath of your site, e.g. /blog

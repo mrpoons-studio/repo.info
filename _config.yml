@@ -26,7 +26,7 @@ backup_github_username: codenamedpktbusiness
 github: [metadata]
 
 # Build settings
-remote_theme: page-themes/hacker@master
+theme: jekyll-theme-hacker
 
 plugins:
   - jekyll-feed

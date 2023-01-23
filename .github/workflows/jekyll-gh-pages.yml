@@ -34,8 +34,6 @@ jobs:
         uses: actions/checkout@main
       - name: 📦 Setup Pages
         uses: actions/configure-pages@main
-        with:
-          using: 'node18'
       - name: 🏗 Build with Jekyll
         uses: actions/jekyll-build-pages@main
         with:
